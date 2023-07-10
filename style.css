@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+    font-family: cursive;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+label{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+#txt{
+    text-align: left;
+    text-decoration-line: underline;
+}
+
+.conversions{
+      border-style: dashed;
+}
+
+#icon{
+    color: black;
+}
